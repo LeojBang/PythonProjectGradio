@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <репозиторий>
+   git clone https://github.com/LeojBang/PythonProjectGradio.git
    cd image-captioning-service
    
 2. Создайте файл .env в корне проекта:
